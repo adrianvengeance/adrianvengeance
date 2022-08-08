@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @adrianvengeance
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning CodeIgniter 4, and wanna try Laravel
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning PHP and JavaScript framework, like CodeIgniter 4, Laravel and Node.Js
+- 📫 Get in touch with me moh.adrian11@gmail.com or DM [@adrian.vengeance](https://instagram.com/adrian.vengeance)
+
+<!--- 💞️ I’m looking to collaborate on ... --->
 
 <!---
 adrianvengeance/adrianvengeance is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
