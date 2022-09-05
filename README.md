@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adrianvengeance
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning PHP and JavaScript framework, like CodeIgniter, Laravel and Node.Js
+- 🌱 I’m currently learning PHP and JavaScript, like CodeIgniter, Laravel and Node.Js
 - 💞️ I’m looking to collaborate on web development project especially with CodeIgniter
 - 📫 Get in touch with me moh.adrian11@gmail.com or through [Telegram](https://t.me/apaitusername)
 
